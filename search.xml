@@ -4,11 +4,38 @@
   
     
     <entry>
+      <title>今天我5个月了</title>
+      <link href="/2019/06/14/%E4%BB%8A%E5%A4%A9%E6%88%915%E4%B8%AA%E6%9C%88%E4%BA%86/"/>
+      <url>/2019/06/14/%E4%BB%8A%E5%A4%A9%E6%88%915%E4%B8%AA%E6%9C%88%E4%BA%86/</url>
+      
+        <content type="html"><![CDATA[<h4 id="今天早上你醒的特别早"><a href="#今天早上你醒的特别早" class="headerlink" title="今天早上你醒的特别早"></a>今天早上你醒的特别早</h4><p>大概在5点10分的时候醒的，这个时候妈妈特别困，你自己玩了半个小时。 然后妈妈把我喊醒，我带着你去楼下溜达了半个小时。<br>今天上班，明天可以好好陪你玩</p><h4 id="刚出生的时候"><a href="#刚出生的时候" class="headerlink" title="刚出生的时候"></a>刚出生的时候</h4><p><img src="/assets/special/1-2019-01-15.jpg" alt="出生照" title="出生照"></p><h4 id="睡觉"><a href="#睡觉" class="headerlink" title="睡觉"></a>睡觉</h4><p><img src="/assets/special/2-2019-06-14.jpg" alt="睡觉照" title="睡觉照"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日记 </tag>
+            
+            <tag> 成长记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的成长记录网站准备好了</title>
       <link href="/2019/06/11/%E6%88%91%E7%9A%84%E6%88%90%E9%95%BF%E8%AE%B0%E5%BD%95%E7%BD%91%E7%AB%99%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86/"/>
       <url>/2019/06/11/%E6%88%91%E7%9A%84%E6%88%90%E9%95%BF%E8%AE%B0%E5%BD%95%E7%BD%91%E7%AB%99%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86/</url>
       
-        <content type="html"><![CDATA[<h3 id="我的成长记录网站准备好了"><a href="#我的成长记录网站准备好了" class="headerlink" title="我的成长记录网站准备好了"></a>我的成长记录网站准备好了</h3><p>哈哈， 今天把网站准备了，以后就可以记录了， 好期待<br>title    Markdown 的文件标题    文章标题，强烈建议填写此选项<br>date    文件创建时的日期时间    发布时间，强烈建议填写此选项，且最好保证全局唯一<br>author    根 _config.yml 中的 author    文章作者<br>img    featureImages 中的某个值    文章特征图，推荐使用图床(腾讯云、七牛云、又拍云等)来做图片的路径.如: <a href="http://xxx.com/xxx.jpg" target="_blank" rel="noopener">http://xxx.com/xxx.jpg</a><br>top    true    推荐文章（文章是否置顶），如果 top 值为 true，则会作为首页推荐文章<br>cover    false    v1.0.2版本新增，表示该文章是否需要加入到首页轮播封面中<br>coverImg    无    v1.0.2版本新增，表示该文章在首页轮播封面需要显示的图片路径，如果没有，则默认使用文章的特色图片<br>password    无    文章阅读密码，如果要对文章设置阅读验证密码的话，就可以设置 password 的值，该值必须是用 SHA256 加密后的密码，防止被他人识破。前提是在主题的 config.yml 中激活了 verifyPassword 选项<br>toc    true    是否开启 TOC，可以针对某篇文章单独关闭 TOC 的功能。前提是在主题的 config.yml 中激活了 toc 选项<br>mathjax    false    是否开启数学公式支持 ，本文章是否开启 mathjax，且需要在主题的 _config.yml 文件中也需要开启才行<br>summary    无    文章摘要，自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="我的成长记录网站准备好了"><a href="#我的成长记录网站准备好了" class="headerlink" title="我的成长记录网站准备好了"></a>我的成长记录网站准备好了</h3><p>哈哈， 今天把网站准备了，以后就可以记录了， 好期待</p><table><thead><tr><th align="center">命令</th><th align="center">描述</th></tr></thead><tbody><tr><td align="center">title</td><td align="center">Markdown 的文件标题    文章标题，强烈建议填写此选项</td></tr><tr><td align="center">date</td><td align="center">文件创建时的日期时间    发布时间，强烈建议填写此选项，且最好保证全局唯一</td></tr><tr><td align="center">author</td><td align="center">根 _config.yml 中的 author    文章作者</td></tr><tr><td align="center">img</td><td align="center">featureImages 中的某个值    文章特征图，推荐使用图床(腾讯云、七牛云、又拍云等)来做图片的路径.如: <a href="http://xxx.com/xxx.jpg" target="_blank" rel="noopener">http://xxx.com/xxx.jpg</a></td></tr><tr><td align="center">top</td><td align="center">true    推荐文章（文章是否置顶），如果 top 值为 true，则会作为首页推荐文章</td></tr><tr><td align="center">cover</td><td align="center">false    v1.0.2版本新增，表示该文章是否需要加入到首页轮播封面中</td></tr><tr><td align="center">coverImg</td><td align="center">无    v1.0.2版本新增，表示该文章在首页轮播封面需要显示的图片路径，如果没有，则默认使用文章的特色图片</td></tr><tr><td align="center">password</td><td align="center">无    文章阅读密码，如果要对文章设置阅读验证密码的话，就可以设置 password 的值，该值必须是用 SHA256 加密后的密码，防止被他人识破。前提是在主题的 config.yml 中激活了 verifyPassword 选项</td></tr><tr><td align="center">toc</td><td align="center">是否开启 TOC，可以针对某篇文章单独关闭 TOC 的功能。前提是在主题的 config.yml 中激活了 toc 选项</td></tr><tr><td align="center">mathjax</td><td align="center">是否开启数学公式支持 ，本文章是否开启 mathjax，且需要在主题的 _config.yml 文件中也需要开启才行</td></tr><tr><td align="center">summary</td><td align="center">无    文章摘要，自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要</td></tr></tbody></table>]]></content>
       
       
       <categories>
